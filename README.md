@@ -1,1 +1,1 @@
-See https://m2aglabs.com/2020/10/28/air-quality-sensor/
+See https://m2aglabs.com/2021/09/17/trinket-air-quality-sensor/
